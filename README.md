@@ -5,14 +5,14 @@
   💻 Estudante de Programação
 </p><br>
 
-- 📚 2º Semestre em Ciência da Computação;
+- 📚 3º Semestre em Ciência da Computação;
 - ☕ Desenvolvedora 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,c)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,c,python)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github,figma)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,idea,git,github,figma,pycharm)](https://skillicons.dev)<br><br>
 
 ##
 <br>
